@@ -151,7 +151,7 @@ public class Scan extends JFrame {
 		NetworkInterface networkInterface = NetworkInterface.getByInetAddress(localHost);
 		int u = networkInterface.getInterfaceAddresses().get(0).getNetworkPrefixLength();
 		String ipAddress = localHost.toString();
-
+		System.out.println(ipAddress);
 		String array[] = ipAddress.split("\\/");
 		ip = array[1];
 		sm = getIPv4LocalNetMask(localHost, u);
@@ -206,7 +206,6 @@ public class Scan extends JFrame {
 			if (c > 255) {
 				c = 0;
 				b++;
-
 			}
 			if (b > 255) {
 				b = 0;
