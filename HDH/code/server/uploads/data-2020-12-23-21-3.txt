@@ -1,0 +1,92 @@
+xin chaoaa{Backspace}a{Backspace}axin chaoxin chao{Ctrl - A}/Backspace/{Ctrl - S}mai toi se di ann ca/Enter/
+xin chao toi la nam day/Enter/
+xom cjap a{Ctrl - S}/Right//Left////Right/{Ctrl - S}{Ctrl - Z}{Ctrl - Z}{Ctrl - Z}{Ctrl - S}/Down//Left//Left//Left//Up//Right//Right//Right//Right//Left//Backspace/(hHo/Down//Enter/
+/Right/{Ctrl - S}/Backspace//Backspace//Backspace//Backspace//Backspace/{Ctrl - S}{Ctrl - S}nnam orikaaksjdklasdjkasjdkasjdkasdkl/Enter/
+{Ctrl - A}mo/Down//Down//Down//Down//Down//Down//Up//Enter/
+mon/Down//Down//Down//Down//Down//Enter/
+app.js/Enter/
+{Ctrl - A}{Ctrl - C}{Ctrl - V}/Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/mon/Enter/
+/Enter/
+/Enter/
+const monog/Backspace//Backspace/goose = req/Down//Down//Down//Enter/
+(",/Backspace/mo{Ctrl -  }/Down//Down//Enter/
+/Right//Right/;{Ctrl - S}{Ctrl - C}{Ctrl - V}/Up//Up/const url_db = "{Ctrl - X}{Ctrl - V}/Left//Backspace//Backspace/url/Right//Left/_d/Enter/
+{Ctrl - S}{Ctrl - C}{Ctrl - V}/Backspace/	/Down//Left//Down//Right/{Ctrl - S}/Backspace/mongoose./Right/{Ctrl - S}/Up//Right//Backspace/{Ctrl - S}/Left//Right//Enter/
+time/Backspace//Backspace//Backspace//Backspace/time L/Backspace/: {/Enter/
+ty/Enter/
+ : Date,/Enter/
+def/Enter/
+ : Date/Enter/
+(/Right/;{Ctrl - S}/Down//Up//Backspace/{Ctrl - S}/Down/,{/Enter/
+{Ctrl - Z}/Enter/
+{Ctrl - Z}/Backspace//Enter/
+conne/Backspace//Backspace//Backspace//Backspace//Backspace/ma,me/Backspace//Backspace//Backspace//Backspace//Backspace/namePro/Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/procr/Backspace/essnam/Backspace//Backspace//Backspace/Name : {/Enter/
+ty/Enter/
+ : Str/Enter/
+{Ctrl - S}/Backspace//Backspace//Backspace//Backspace//Enter/
+{Ctrl - S}Process/Left//Left//Left//Left//Left//Left//Backspace/p{Ctrl - S}/Enter/
+/Enter/
+const /Enter/
+content : /Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/data : {/Enter/
+ty/Enter/
+ : {Str/Backspace//Backspace//Backspace//Backspace/Stri/Enter/
+{Ctrl - S} Process = mon/Enter/
+.m/Enter/
+("p/Backspace/KeyLo/Backspace//Backspace/log/Right//Left//Right/kyl/Backspace//Backspace/eulog/Backspace//Backspace//Backspace//Backspace/ylog/Right/,pro/Enter/
+/Right//Right//Left/;{Ctrl - S}/Enter/
+/Backspace//Backspace//Backspace//Backspace//Backspace/const { /Left//Right//Backspace/data, pr/Enter/
+/Right/ = req./Down//Down//Enter/
+;/Enter/
+aw/Enter/
+ Key/Enter/
+./Down//Down//Down/crt/Enter/
+({dat/Enter/
+,pro/Enter/
+/Right/{Ctrl - S}{Ctrl - C}node app.js/Enter/
+/Right//Left/as/Down//Down//Enter/
+{Ctrl - S}/Left/as/Down//Down//Enter/
+/Right/{Ctrl - S}{Ctrl - C}{Ctrl - V}doan/Right/{Ctrl - C}{Ctrl - V}/Right//Backspace//Backspace//Right//Right//Right//Right//Right//Right//Left//Backspace/mang{Ctrl - S}node app.js/Enter/
+{Ctrl - C}/Left//Right/,{Ctrl - V}{Ctrl - S}nampro{Ctrl - A}/Backspace//Backspace//Backspace/>={Ctrl - S}/Up//Up//Right//Up//Up//Right//Up//Up//Up//Left//Up//Up/     /Up//Up//Right//Down//Right//Up//Down//Right//Up//Up//Left//Up//Left//Right//Right//Right//Right//Right//Right//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/ = tw/Backspace/_/Backspace//Backspace/n/Backspace/int(now)/Right/{Ctrl - S}nam{Ctrl - X}/Enter/
+{Ctrl - V}{Ctrl - S}/Up//Up//Up//Up//Right//Right//Left//Up//Up//Down//Down//Down//Down//Down//Backspace//Backspace//Enter/
+{Ctrl - X}/Enter/
+{Ctrl - V}{Ctrl - S}/Up//Up//Up//Up//Left//Left//Left//Down//Down//Down//Down//Right//Right//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Down//Down//Down//Down//Down//Down//Down//Down//Down//Down//Down//Down//Down//Down//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Up//Up//Enter/
+{Ctrl - Z}{Ctrl - S}/Right/{Ctrl - K}{Ctrl - C}{Ctrl - S}/Up//Up//Down//Down//Down//Down//Right//Right//Right//Up//Up//Left//Left//Left//Left//Down//Down//Down//Down//Down//Down//Up//Up//Up//Down//Down//Down//Down//Right//Up//Left//Left//Left//Right//Right//Left//Up//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Down//Down//Up//Up//Backspace//Backspace//Backspace/{Ctrl - S}{Ctrl - X}{Ctrl - V}/Backspace//Backspace//Backspace//Backspace/{Ctrl - S}x/Enter/
+namnamaaaanote/Enter/
+aaaaaaaaaaaaaaaaaaaasdasdasdasdasdasdasd{Ctrl - C}/Enter/
+{Ctrl - V}/Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left/static /Enter/
+if(t/Backspace/i_int -t0 >=30/Left//Left//Right//Right//Left//Right//Right//Right//Left//Left//Left//Left//Left//Left//Left//Left//Left/ int t0{/Enter/
+{Ctrl - X}{Ctrl - V}{Ctrl - S}/Enter/
+sedn/Backspace//Backspace/ndFil/Down//Enter/
+(t0/Left/,t0int ;{Ctrl - C}/Enter/
+{Ctrl - V}int t0203030{Ctrl - S}tim/Backspace//Backspace//Backspace/space_time_send/Enter/
+int spacetu/Backspace//Backspace/_time_send = 30;{Ctrl - S}/Right//Left/, int t0int t0{Ctrl - S},t0,t0,t0t0,t0,t0,t0,t0,t0,t0,t0,t0{Ctrl - S}/Delete//Up//Up//Down//Up//Right/&/Enter/
+t0 = t/Backspace//Backspace//Backspace//Backspace/now/Backspace//Backspace//Backspace/nowt_now;;/Backspace/{Ctrl - S}/Backspace/t/Right//Down//Left//Backspace/t/Right/{Ctrl - S}&&{Ctrl - S}&/Down//Down//Down//Up//Up//Up/{Ctrl - S}&/Down//Left//Left//Left//Down//Left//Up/&/Right//Right/{Ctrl - S}/Backspace/{Ctrl - S}/Enter/
+n{Ctrl - S}/Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up/ghgy/Up//Up//Right//Up//Up//Up//Up//Up//Up//Up//Up//Down//Down//Down//Up//Up//Up//Down//Down//Down//Down//Up//Up//Down//Down//Down//Down//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Up//Home//Home//Home//End//End//End/p[;pl;p/Right//Up//Up//Up//Enter/
+{Ctrl - C}{Ctrl - C}node app.js/Enter/
+{Ctrl - V}data/Right//Right//Right//Right//Right//Right//Right/{Ctrl - S}url/Right/{Ctrl - S}{Ctrl - A}{Ctrl - C}{Ctrl - A}{Ctrl - C}{Ctrl - V}/Enter/
+/llnode/Backspace//Backspace//Backspace//Backspace//Backspace/note/Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Up//Up//Ins//Ins/mute/Backspace//Backspace//Backspace//Backspace//Backspace/mu/Right//Down/ ch/Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/change/Backspace//Backspace//Backspace//Backspace//Backspace//Backspace/chang/Backspace//Backspace//Backspace//Backspace//Backspace/change file/Backspace//Backspace//Backspace//Backspace/naem/Backspace//Backspace/me file node
+/Enter/{Ctrl - C}{Ctrl - C}
+/Enter/{Ctrl - V},action C
+/Enter//Right//Right//Right/{Ctrl - C}{Ctrl - C},{Ctrl - V}{Ctrl - S}/Backspace//Backspace//Backspace/{Ctrl - S}{Ctrl - S}/Backspace//Backspace//Backspace/txt/Left//Left/{Ctrl - S}{Ctrl - S}/Up/.get/Backspace//Backspace//Backspace//Backspace/{Ctrl - S}Date/Backspace//Backspace//Backspace//Backspace//Backspace/a = Daet/Backspace//Backspace/te().now/Backspace/()/Left//Left/w/Backspace//Backspace/ow
+/Enter/node
+/Enter//Up//Up/
+/Enter/a = Date().now()/Left//Left//Left//Left//Left//Left//Backspace//Backspace//Backspace/e
+/Enter/a = /Backspace//Backspace//Backspace//Backspace//Backspace/b = new Date()
+/Enter/b.getED/Backspace//Backspace/Houe/Backspace/
+/Enter/let time = new Date(/Right/;
+/Enter/hours/Backspace//Backspace//Backspace//Backspace//Backspace/let ho/Backspace//Backspace/year = time.get/Down/
+/Enter/(/Right/l/Backspace/;
+/Enter/let moth/Backspace//Backspace/nth = time.get/Down//Down//Down//Down//Down//Down//Down/
+/Enter/(/Right/;
+/Enter/let date = tie/Backspace/me.get/Down//Down/
+/Enter/(/Right/;
+/Enter/let yar/Backspace//Backspace//Backspace/hour = time.getHo
+/Enter/(/Right/;
+/Enter/let mu/Backspace/inute = time.get/Down//Down//Down//Down//Down//Up//Down//Down/
+/Enter/)/Backspace/(/Right/;/Backspace//Backspace/+ `- year/Backspace//Backspace//Backspace//Backspace/{/Left/$/Right/year
+/Enter//Right//Left//Right//${mot/Backspace//Down//Up/
+/Enter//Right//${da
+/Enter//Right/:/Backspace/-ho/Backspace//Backspace/${hou
+/Enter//Right/:/Backspace/_/Backspace/:year/Backspace//Backspace//Backspace//Backspace/${mi
+/Enter//Right//Right//Right/{Ctrl - S}/Up//Down//Up//Down//Up//Right//Down//Down//Backspace/{Ctrl - S}/Up//Up//Backspace/-{Ctrl - S}/Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Up//Up//Down//Up//Down//Up//Down//Up//Up//Down//Down//Down//Up//Down//Up//Down//Up//Up//Down//Up//Right//Left//Left/.txt/Left/{Ctrl - S}/Up//Down//Up//Down//Down//Up//Up/
+/Enter//Up//Left//Backspace/,/Right//Right//Right//Right//Right//Right//Right//Right//Right//Backspace/,/Right//Right//Right//Right//Right//Right//Right//Right//Backspace/,/Right//Right//Right//Right//Right//Right//Right//Right/{Ctrl - S}/Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Backspace/-/Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Left//Backspace/-/Right//Right//Right//Right//Right//Right//Right//Right//Backspace/-{Ctrl - S}/Up//Down//Up//Backspace//Backspace//Right//Right//Backspace/data-/Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right//Right/ +2/Backspace/1/Left/ /Right/{Ctrl - S}/Up//Down//Up//Up//Down//Down//Down//Up//Down//Up//Down//Down//Up//Up//Up//Down//Up//Down/{Ctrl - S}/Up//Up//Up//Right//Down//Down//Up//Right//Down//Down//Down//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Right//Up//Up//Up//Up//Down//Down//Down//Down//Down//Down//Down//Down//Up//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left//Left/
